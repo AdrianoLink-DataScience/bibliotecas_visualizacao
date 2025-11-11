@@ -1,10 +1,5 @@
-# ** Como Analista de dados de uma empresa que presta um serviço de consultoria para pessoas que querem imigrar do Brasil para o Canadá. **
+** Como Analista de dados de uma empresa que presta um serviço de consultoria para pessoas que querem imigrar do Brasil para o Canadá. **
 
-Claro\! Aqui está o `README.md` ajustado.
-
-Eu adicionei uma seção de "Nota" logo no início, abaixo da introdução, explicando o problema de renderização do GitHub e direcionando os visitantes para o link do NBViewer que você criou.
-
-**Apenas lembre-se de substituir `[INSIRA-SEU-LINK-DO-NBVIEWER-AQUI]` pelo seu link real.**
 
 -----
 
