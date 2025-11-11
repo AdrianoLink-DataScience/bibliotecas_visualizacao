@@ -1,6 +1,11 @@
-Como Analista de dados de uma empresa que presta um serviço de consultoria para pessoas que querem imigrar do Brasil para o Canadá.
+# ** Como Analista de dados de uma empresa que presta um serviço de consultoria para pessoas que querem imigrar do Brasil para o Canadá. **
 
-Análise Exploratória de Dados (EDA), desde a importação e tratamento até a visualização de dados de imigração para o Canadá usando Matplotlib, Seaborn e Plotly.
+Claro\! Aqui está o `README.md` ajustado.
+
+Eu adicionei uma seção de "Nota" logo no início, abaixo da introdução, explicando o problema de renderização do GitHub e direcionando os visitantes para o link do NBViewer que você criou.
+
+**Apenas lembre-se de substituir `[INSIRA-SEU-LINK-DO-NBVIEWER-AQUI]` pelo seu link real.**
+
 -----
 
 # Análise e Visualização de Dados de Imigração para o Canadá (1980-2013)
@@ -8,6 +13,12 @@ Análise Exploratória de Dados (EDA), desde a importação e tratamento até a 
 Este repositório contém uma análise detalhada dos dados de imigração para o Canadá entre os anos de 1980 e 2013. O projeto utiliza Pandas para a manipulação e tratamento dos dados, e demonstra uma comparação prática entre as bibliotecas de visualização `Matplotlib`, `Seaborn` e `Plotly`.
 
 O notebook `tratamento_e_visualização_de_dados.ipynb` é o arquivo principal onde toda a análise é conduzida.
+
+> ⚠️ **Nota sobre Visualização**
+>
+> O GitHub pode apresentar um erro ("*Sorry, something went wrong*") ao tentar renderizar o notebook `ipynb` diretamente nesta página. Isso ocorre devido aos gráficos interativos (Plotly) contidos no arquivo.
+>
+> **[Para uma visualização completa e correta do notebook, por favor, clique aqui (via NBViewer)](https://nbviewer.org/github/AdrianoLink-DataScience/bibliotecas_visualizacao/blob/main/tratamento_e_visualiza%C3%A7%C3%A3o_de_dados.ipynb)**
 
 ## 📈 Sobre o Projeto
 
