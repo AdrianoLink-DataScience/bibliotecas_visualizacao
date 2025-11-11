@@ -1,3 +1,5 @@
+Como Analista de dados de uma empresa que presta um serviço de consultoria para pessoas que querem imigrar do Brasil para o Canadá.
+
 Análise Exploratória de Dados (EDA), desde a importação e tratamento até a visualização de dados de imigração para o Canadá usando Matplotlib, Seaborn e Plotly.
 -----
 
